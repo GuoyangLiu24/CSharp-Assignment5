@@ -1,0 +1,9 @@
+E:\SET2019\S4\1.Programming 3\Assignments\Guoyang-Liu_Sec003_COMP212_Lab05\Guoyang-Liu_Sec003_Exercise01\bin\Debug\Guoyang-Liu_Sec003_Exercise01.exe.config
+E:\SET2019\S4\1.Programming 3\Assignments\Guoyang-Liu_Sec003_COMP212_Lab05\Guoyang-Liu_Sec003_Exercise01\bin\Debug\Guoyang-Liu_Sec003_Exercise01.exe
+E:\SET2019\S4\1.Programming 3\Assignments\Guoyang-Liu_Sec003_COMP212_Lab05\Guoyang-Liu_Sec003_Exercise01\bin\Debug\Guoyang-Liu_Sec003_Exercise01.pdb
+E:\SET2019\S4\1.Programming 3\Assignments\Guoyang-Liu_Sec003_COMP212_Lab05\Guoyang-Liu_Sec003_Exercise01\obj\Debug\Guoyang-Liu_Sec003_Exercise01.csprojAssemblyReference.cache
+E:\SET2019\S4\1.Programming 3\Assignments\Guoyang-Liu_Sec003_COMP212_Lab05\Guoyang-Liu_Sec003_Exercise01\obj\Debug\Guoyang_Liu_Sec003_Exercise01.Form1.resources
+E:\SET2019\S4\1.Programming 3\Assignments\Guoyang-Liu_Sec003_COMP212_Lab05\Guoyang-Liu_Sec003_Exercise01\obj\Debug\Guoyang_Liu_Sec003_Exercise01.Properties.Resources.resources
+E:\SET2019\S4\1.Programming 3\Assignments\Guoyang-Liu_Sec003_COMP212_Lab05\Guoyang-Liu_Sec003_Exercise01\obj\Debug\Guoyang-Liu_Sec003_Exercise01.csproj.GenerateResource.cache
+E:\SET2019\S4\1.Programming 3\Assignments\Guoyang-Liu_Sec003_COMP212_Lab05\Guoyang-Liu_Sec003_Exercise01\obj\Debug\Guoyang-Liu_Sec003_Exercise01.exe
+E:\SET2019\S4\1.Programming 3\Assignments\Guoyang-Liu_Sec003_COMP212_Lab05\Guoyang-Liu_Sec003_Exercise01\obj\Debug\Guoyang-Liu_Sec003_Exercise01.pdb
